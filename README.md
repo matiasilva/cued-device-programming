@@ -1,6 +1,6 @@
 # cued-device-programming
 
-My solutions to the Part 1B Device Programming Coursework set by the Cambridge University Engineering Department.
+My solutions to the Part 1B Device Programming coursework set by the Cambridge University Engineering Department.
 
 The microcontroller used was a NUCLEO-F746ZG with the mbedOS RTOS.
 
